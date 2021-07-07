@@ -27,3 +27,4 @@ Organization owners, and members with admin privileges for a repository, can inv
   ![Checkbox to allow members to invite outside collaborators to organization repositories](/assets/images/help/organizations/repo-invitations-checkbox-updated.png){% else %}
   ![Checkbox to allow members to invite outside collaborators to organization repositories](/assets/images/help/organizations/repo-invitations-checkbox.png){% endif %}
 6. Click **Save**.
+Test
